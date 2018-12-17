@@ -40,6 +40,7 @@ var (
 
 var pictures = map[string]picture{
 	"gradient":   gradient,
+	"graphic":    graphic,
 	"mandelbrot": mandelbrot,
 }
 
